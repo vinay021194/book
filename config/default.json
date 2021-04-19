@@ -1,0 +1,6 @@
+
+
+{
+    "mongoURI":
+      "mongodb+srv://vinaysaxena007:Vinay@007@cluster0.9mnzu.mongodb.net/book?retryWrites=true&w=majority"
+  }
